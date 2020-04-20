@@ -1,1 +1,2 @@
-# This is the SQL mini project assigned for the candidates of Springboard's Data Science Career Track. Ten questions were answered using the 'country_club' database containing three tables: 'Bookings', 'Facilities', and 'Members'.
+# SQL Practice
+This exercise utilized a Country Club dataset from a SQL file and explored three tables: 'Bookings', 'Facilities', and 'Members'. A series of 10 questions were answered, with a focus on member fees, monthly maintenance costs, facility bookings, and total revenue.
